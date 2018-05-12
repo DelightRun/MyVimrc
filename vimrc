@@ -121,9 +121,7 @@ nmap <leader>h :nohl<CR>
 "保存文件
 nnoremap <leader>s <Esc>:w<CR>
 "退出
-nnoremap <leader>q <Esc>:q<CR>
-"保存并退出
-nnoremap <leader>x <Esc>:wq<CR>
+nnoremap <leader>q <Esc>:qa<CR>
 "横分屏
 nnoremap <leader>D :sp<CR><C-W>w
 "竖分屏
