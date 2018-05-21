@@ -161,7 +161,6 @@ Plugin 'gmarik/Vundle.vim' "Vundle必须要！
 
 """""""""""""""""""""""""Solarized""""""""""""""""""""""""""
 "Plugin 'altercation/vim-colors-solarized'
-colorscheme candy
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 """""""""""""""""""""""不需配置的插件"""""""""""""""""""""""
